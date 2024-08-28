@@ -1,2 +1,0 @@
-# 2024_summer_semester_OSproject_xv6
-2022_SSE_summer_semester_project_fby
